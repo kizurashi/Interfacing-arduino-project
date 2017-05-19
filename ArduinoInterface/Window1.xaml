@@ -1,0 +1,17 @@
+﻿<Window x:Class="ArduinoInterface.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Window1" Height="211" Width="390" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="ToolWindow" ShowInTaskbar="False" WindowState="Normal" Loaded="Window_Loaded">
+    <Window.Resources>
+        <FlowDirection x:Key="FlowDirection1">LeftToRight</FlowDirection>
+    </Window.Resources>
+    <Grid Background="#FF98FF98" Height="181">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="56*" />
+            <RowDefinition Height="57*" />
+        </Grid.RowDefinitions>
+        <ComboBox Height="32" HorizontalAlignment="Left" Margin="37,58,0,0" Name="comboBox1" VerticalAlignment="Top" Width="295" />
+        <Button Content="Set Default Plant" Grid.Row="1" Height="41" HorizontalAlignment="Left" Margin="101,7,0,0" Name="button1" VerticalAlignment="Top" Width="166" Click="button1_Click" />
+        <Label Content="Select Plant" Height="41" HorizontalAlignment="Left" Name="label1" VerticalAlignment="Top" Width="385" Background="#FF008B39" FontSize="16" FontWeight="Bold" FontStretch="SemiCondensed" FlowDirection="{StaticResource FlowDirection1}" Focusable="False" ForceCursor="True" IsManipulationEnabled="True" Padding="10" HorizontalContentAlignment="Center" />
+    </Grid>
+</Window>

@@ -1,0 +1,26 @@
+﻿<Window x:Class="ArduinoInterface.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="522" Width="878" Loaded="Window_Loaded" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="ToolWindow" Closing="Window_Closing">
+    <Grid Background="#FF98FF98">
+        <ComboBox Height="31" HorizontalAlignment="Left" Margin="26,0,0,341" Name="comboBox1" VerticalAlignment="Bottom" Width="232" SelectionChanged="comboBox1_SelectionChanged" />
+        <DataGrid AutoGenerateColumns="False" Height="306" ItemsSource="{Binding Path=LoadDataBinding}" ColumnWidth="*" HorizontalAlignment="Right" Name="dataGrid1" VerticalAlignment="Top" Width="818" DataContext="{Binding}" IsReadOnly="True" HeadersVisibility="Column" Margin="0,157,26,0">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding Path=Dates}" Header="DATE" Width="250" IsReadOnly="True" />
+                <DataGridTextColumn Binding="{Binding Path=Time}" Header="TIME" Width="250" IsReadOnly="True" />
+                <DataGridTextColumn Binding="{Binding Path=hum}" Header="HUMIDITY" Width="150" IsReadOnly="True" />
+                <DataGridTextColumn Binding="{Binding Path=temp}" Header="TEMPERATURE" Width="150" IsReadOnly="True" />
+                
+            </DataGrid.Columns>
+        </DataGrid>
+        <Label Content="Select Plant" Height="24" HorizontalAlignment="Left" Margin="26,90,0,0" Name="label1" VerticalAlignment="Top" Width="83" FontWeight="Bold" />
+        <Menu Height="26" HorizontalAlignment="Right" Name="menu1" VerticalAlignment="Top" Width="877" Background="#FF98FFB2" Margin="0,50,0,0">
+            <MenuItem Header="Add plant" HorizontalAlignment="Left" Width="140"
+			  Click="MenuItem_Click" FontSize="18" FontFamily="Times New Roman" FontWeight="Bold" />
+            <MenuItem Header="Settings" Click="MenuItem_Click_1" FontSize="18" FontFamily="Times New Roman" FontWeight="Bold" />
+        </Menu>
+        <Button Content="Search" Height="31" HorizontalAlignment="Right" Margin="0,120,26,0" Name="button1" VerticalAlignment="Top" Width="114" Click="button1_Click" />
+        <TextBox Height="31" HorizontalAlignment="Left" Margin="474,120,0,0" Name="txtSearch" VerticalAlignment="Top" Width="236" />
+        <Label Content="Automatic irrigation using soil moisture sensor" Height="52" HorizontalAlignment="Left" Name="label2" VerticalAlignment="Top" VerticalContentAlignment ="Center"  HorizontalContentAlignment="Center"  Width="874" FontWeight="Normal" FontStyle="Normal" IsEnabled="True" Background="#FF008B39" FontSize="30" FontFamily="Times New Roman" />
+    </Grid>
+</Window>

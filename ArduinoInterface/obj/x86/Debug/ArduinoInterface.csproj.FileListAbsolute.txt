@@ -1,0 +1,68 @@
+c:\users\kanishi\documents\visual studio 2010\Projects\ArduinoInterface\ArduinoInterface\bin\Debug\ArduinoInterface.exe
+c:\users\kanishi\documents\visual studio 2010\Projects\ArduinoInterface\ArduinoInterface\bin\Debug\ArduinoInterface.pdb
+c:\users\kanishi\documents\visual studio 2010\Projects\ArduinoInterface\ArduinoInterface\obj\x86\Debug\MainWindow.baml
+c:\users\kanishi\documents\visual studio 2010\Projects\ArduinoInterface\ArduinoInterface\obj\x86\Debug\MainWindow.g.cs
+c:\users\kanishi\documents\visual studio 2010\Projects\ArduinoInterface\ArduinoInterface\obj\x86\Debug\App.g.cs
+c:\users\kanishi\documents\visual studio 2010\Projects\ArduinoInterface\ArduinoInterface\obj\x86\Debug\ArduinoInterface_MarkupCompile.cache
+c:\users\kanishi\documents\visual studio 2010\Projects\ArduinoInterface\ArduinoInterface\obj\x86\Debug\ArduinoInterface.g.resources
+c:\users\kanishi\documents\visual studio 2010\Projects\ArduinoInterface\ArduinoInterface\obj\x86\Debug\ArduinoInterface.Properties.Resources.resources
+c:\users\kanishi\documents\visual studio 2010\Projects\ArduinoInterface\ArduinoInterface\obj\x86\Debug\ArduinoInterface.csproj.GenerateResource.Cache
+c:\users\kanishi\documents\visual studio 2010\Projects\ArduinoInterface\ArduinoInterface\obj\x86\Debug\ArduinoInterface.exe
+c:\users\kanishi\documents\visual studio 2010\Projects\ArduinoInterface\ArduinoInterface\obj\x86\Debug\ArduinoInterface.pdb
+C:\Users\kanishi\Documents\Visual Studio 2010\Projects\ArduinoInterface\ArduinoInterface\bin\Debug\ArduinoInterface.exe.config
+C:\Users\kanishi\Documents\Visual Studio 2010\Projects\ArduinoInterface\ArduinoInterface\obj\x86\Debug\Window1.baml
+C:\Users\kanishi\Documents\Visual Studio 2010\Projects\ArduinoInterface\ArduinoInterface\obj\x86\Debug\Window1.g.cs
+C:\Users\kanishi\Documents\Visual Studio 2010\Projects\ArduinoInterface\ArduinoInterface\obj\x86\Debug\Window2.baml
+C:\Users\kanishi\Documents\Visual Studio 2010\Projects\ArduinoInterface\ArduinoInterface\obj\x86\Debug\Window2.g.cs
+C:\Users\kanishi\Documents\Visual Studio 2010\Projects\ArduinoInterface\ArduinoInterface\obj\x86\Debug\ArduinoInterface.csprojResolveAssemblyReference.cache
+F:\ArduinoInterface\ArduinoInterface\bin\Debug\ArduinoInterface.exe.config
+F:\ArduinoInterface\ArduinoInterface\obj\x86\Debug\ArduinoInterface.exe
+F:\ArduinoInterface\ArduinoInterface\obj\x86\Debug\ArduinoInterface.pdb
+F:\ArduinoInterface\ArduinoInterface\obj\x86\Debug\ArduinoInterface.csprojResolveAssemblyReference.cache
+F:\ArduinoInterface\ArduinoInterface\obj\x86\Debug\MainWindow.baml
+F:\ArduinoInterface\ArduinoInterface\obj\x86\Debug\Window1.baml
+F:\ArduinoInterface\ArduinoInterface\obj\x86\Debug\Window2.baml
+F:\ArduinoInterface\ArduinoInterface\obj\x86\Debug\MainWindow.g.cs
+F:\ArduinoInterface\ArduinoInterface\obj\x86\Debug\Window1.g.cs
+F:\ArduinoInterface\ArduinoInterface\obj\x86\Debug\Window2.g.cs
+F:\ArduinoInterface\ArduinoInterface\obj\x86\Debug\App.g.cs
+F:\ArduinoInterface\ArduinoInterface\obj\x86\Debug\ArduinoInterface_MarkupCompile.cache
+F:\ArduinoInterface\ArduinoInterface\obj\x86\Debug\ArduinoInterface.g.resources
+F:\ArduinoInterface\ArduinoInterface\obj\x86\Debug\ArduinoInterface.Properties.Resources.resources
+F:\ArduinoInterface\ArduinoInterface\obj\x86\Debug\ArduinoInterface.csproj.GenerateResource.Cache
+F:\ArduinoInterface\ArduinoInterface\bin\Debug\ArduinoInterface.exe
+F:\ArduinoInterface\ArduinoInterface\bin\Debug\ArduinoInterface.pdb
+C:\Users\userph\Desktop\thesis\ArduinoInterface\ArduinoInterface\bin\Debug\ArduinoInterface.exe.config
+C:\Users\userph\Desktop\thesis\ArduinoInterface\ArduinoInterface\obj\x86\Debug\ArduinoInterface.exe
+C:\Users\userph\Desktop\thesis\ArduinoInterface\ArduinoInterface\obj\x86\Debug\ArduinoInterface.pdb
+C:\Users\userph\Desktop\thesis\ArduinoInterface\ArduinoInterface\bin\Debug\ArduinoInterface.exe
+C:\Users\userph\Desktop\thesis\ArduinoInterface\ArduinoInterface\bin\Debug\ArduinoInterface.pdb
+C:\Users\userph\Desktop\thesis\ArduinoInterface\ArduinoInterface\obj\x86\Debug\ArduinoInterface.csprojResolveAssemblyReference.cache
+C:\Users\userph\Desktop\thesis\ArduinoInterface\ArduinoInterface\obj\x86\Debug\MainWindow.baml
+C:\Users\userph\Desktop\thesis\ArduinoInterface\ArduinoInterface\obj\x86\Debug\Window1.baml
+C:\Users\userph\Desktop\thesis\ArduinoInterface\ArduinoInterface\obj\x86\Debug\Window2.baml
+C:\Users\userph\Desktop\thesis\ArduinoInterface\ArduinoInterface\obj\x86\Debug\MainWindow.g.cs
+C:\Users\userph\Desktop\thesis\ArduinoInterface\ArduinoInterface\obj\x86\Debug\Window1.g.cs
+C:\Users\userph\Desktop\thesis\ArduinoInterface\ArduinoInterface\obj\x86\Debug\Window2.g.cs
+C:\Users\userph\Desktop\thesis\ArduinoInterface\ArduinoInterface\obj\x86\Debug\App.g.cs
+C:\Users\userph\Desktop\thesis\ArduinoInterface\ArduinoInterface\obj\x86\Debug\ArduinoInterface_MarkupCompile.cache
+C:\Users\userph\Desktop\thesis\ArduinoInterface\ArduinoInterface\obj\x86\Debug\ArduinoInterface.g.resources
+C:\Users\userph\Desktop\thesis\ArduinoInterface\ArduinoInterface\obj\x86\Debug\ArduinoInterface.Properties.Resources.resources
+C:\Users\userph\Desktop\thesis\ArduinoInterface\ArduinoInterface\obj\x86\Debug\ArduinoInterface.csproj.GenerateResource.Cache
+C:\Users\Kizurashi\Downloads\Compressed\ArduinoInterface\ArduinoInterface\bin\Debug\ArduinoInterface.exe.config
+C:\Users\Kizurashi\Downloads\Compressed\ArduinoInterface\ArduinoInterface\obj\x86\Debug\ArduinoInterface.exe
+C:\Users\Kizurashi\Downloads\Compressed\ArduinoInterface\ArduinoInterface\obj\x86\Debug\ArduinoInterface.pdb
+C:\Users\Kizurashi\Downloads\Compressed\ArduinoInterface\ArduinoInterface\bin\Debug\ArduinoInterface.exe
+C:\Users\Kizurashi\Downloads\Compressed\ArduinoInterface\ArduinoInterface\bin\Debug\ArduinoInterface.pdb
+C:\Users\Kizurashi\Downloads\Compressed\ArduinoInterface\ArduinoInterface\obj\x86\Debug\ArduinoInterface.csprojResolveAssemblyReference.cache
+C:\Users\Kizurashi\Downloads\Compressed\ArduinoInterface\ArduinoInterface\obj\x86\Debug\MainWindow.baml
+C:\Users\Kizurashi\Downloads\Compressed\ArduinoInterface\ArduinoInterface\obj\x86\Debug\Window1.baml
+C:\Users\Kizurashi\Downloads\Compressed\ArduinoInterface\ArduinoInterface\obj\x86\Debug\Window2.baml
+C:\Users\Kizurashi\Downloads\Compressed\ArduinoInterface\ArduinoInterface\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Kizurashi\Downloads\Compressed\ArduinoInterface\ArduinoInterface\obj\x86\Debug\Window1.g.cs
+C:\Users\Kizurashi\Downloads\Compressed\ArduinoInterface\ArduinoInterface\obj\x86\Debug\Window2.g.cs
+C:\Users\Kizurashi\Downloads\Compressed\ArduinoInterface\ArduinoInterface\obj\x86\Debug\App.g.cs
+C:\Users\Kizurashi\Downloads\Compressed\ArduinoInterface\ArduinoInterface\obj\x86\Debug\ArduinoInterface_MarkupCompile.cache
+C:\Users\Kizurashi\Downloads\Compressed\ArduinoInterface\ArduinoInterface\obj\x86\Debug\ArduinoInterface.g.resources
+C:\Users\Kizurashi\Downloads\Compressed\ArduinoInterface\ArduinoInterface\obj\x86\Debug\ArduinoInterface.Properties.Resources.resources
+C:\Users\Kizurashi\Downloads\Compressed\ArduinoInterface\ArduinoInterface\obj\x86\Debug\ArduinoInterface.csproj.GenerateResource.Cache
